@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+# Virginia Valium
+## Bio
 
-You can use the [editor on GitHub](https://github.com/virginiavalium/virginiavalium.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I was born in Moon, Virginia, at the age of 8. Since then I've wandered around, gazing melancholically at the horizon and/or skipping happily on the green grass.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My love for the universe takes many forms, but digitally it usually makes itself visible/audible/interactable through visual art, music and videogames. I write too, though I don't share it much with anyone other than my future selves.
 
-### Markdown
+This might come as kinda cold, because I am having that kind of day today: I am a bit tired, overwhelmed and saturated with stimuli and my period is due soon, so my emotional state is somewhat cloudy.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I will probably continue this description soon.
 
-```markdown
-Syntax highlighted code block
+In case I don't, I wish you a lovely web surf session <3
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+Love,
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/virginiavalium/virginiavalium.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- V.
